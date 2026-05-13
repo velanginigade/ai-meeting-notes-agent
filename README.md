@@ -68,5 +68,24 @@ Planned Enhancements
 Project Status:
 Completed foundational implementation of meeting summarization and AI workflow orchestration components. Currently expanding automation workflows and conversational context handling.
 
+## Sample Workflow
+
+1. Upload meeting transcript
+2. Process conversation text
+3. Generate AI summary
+4. Extract action items
+5. Identify key decisions
+6. Generate structured meeting insights
+7. Export workflow-ready outputs
+
+## Learning Goals
+
+This project was built to strengthen practical understanding of:
+- AI-powered workflow automation
+- LLM orchestration patterns
+- NLP summarization pipelines
+- Productivity-focused AI agents
+- Backend API integration workflows
+
 Author
 Velangini Gade
